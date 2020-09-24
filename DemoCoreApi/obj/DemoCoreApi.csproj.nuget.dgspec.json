@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nirmal\\source\\repos\\DemoCoreApi\\DemoCoreApi\\DemoCoreApi.csproj": {}
+    "D:\\Innolat_Github_Repo\\EzzyCart_Demo\\DemoApi\\DemoCoreApi\\DemoCoreApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nirmal\\source\\repos\\DemoCoreApi\\DemoCoreApi\\DemoCoreApi.csproj": {
+    "D:\\Innolat_Github_Repo\\EzzyCart_Demo\\DemoApi\\DemoCoreApi\\DemoCoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nirmal\\source\\repos\\DemoCoreApi\\DemoCoreApi\\DemoCoreApi.csproj",
+        "projectUniqueName": "D:\\Innolat_Github_Repo\\EzzyCart_Demo\\DemoApi\\DemoCoreApi\\DemoCoreApi.csproj",
         "projectName": "DemoCoreApi",
-        "projectPath": "C:\\Users\\Nirmal\\source\\repos\\DemoCoreApi\\DemoCoreApi\\DemoCoreApi.csproj",
+        "projectPath": "D:\\Innolat_Github_Repo\\EzzyCart_Demo\\DemoApi\\DemoCoreApi\\DemoCoreApi.csproj",
         "packagesPath": "C:\\Users\\Nirmal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nirmal\\source\\repos\\DemoCoreApi\\DemoCoreApi\\obj\\",
+        "outputPath": "D:\\Innolat_Github_Repo\\EzzyCart_Demo\\DemoApi\\DemoCoreApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g+AeUjypusuHsjTBdh01zksQQCC8wqxDh6QU7p2az/b4m217+JVQg/4j0CKcHq1auQjb2gkVyd8tSTkUxvlQiw==",
+  "dgSpecHash": "djSnarYZUgieKSCSwN/+aySTAnrq3CNM9k1Yz9HqlbfQJ6wKH/CbYL9DBrmRB87CSyK6LG0fD9BAal5iPkEpFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nirmal\\source\\repos\\DemoCoreApi\\DemoCoreApi\\DemoCoreApi.csproj",
+  "projectFilePath": "D:\\Innolat_Github_Repo\\EzzyCart_Demo\\DemoApi\\DemoCoreApi\\DemoCoreApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nirmal\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Nirmal\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
